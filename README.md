@@ -1,4 +1,4 @@
-#setup
+# setup
 
 - run in terminal
   npx create-react-app <App-name>
